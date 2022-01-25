@@ -3,7 +3,7 @@ new Vue({
 
     //----[htmlのテキスト情報]----//
     data: {
-        heading: "現在の天気予報",
+        heading: "現在時間",
         time: ''
     },
 
