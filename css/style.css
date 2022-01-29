@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@media screen and (max-width: 560px) {
+    body {
+        text-align: center;
+    }
+    h1 {
+        padding-top: 50px;
+        padding-bottom: 70px;
+    }
+    p {
+        font-size: 50px;
+        background-color: rgb(242, 242, 248);
+        padding: 40px;
+        width: 50%;
+        border-top-left-radius: 30px;
+        border-top-right-radius: 30px;
+        border-bottom-right-radius: 30px;
+        border-bottom-left-radius: 30px;
+        box-shadow: 0 0 8px gray;
+        margin: 0 auto;
+    }
+}
